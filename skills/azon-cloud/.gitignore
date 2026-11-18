@@ -1,5 +1,0 @@
-# Runtime artifacts: do not version live URLs, prices, or run state.
-run.json
-batch-*.json
-inputs.json
-*.tmp
